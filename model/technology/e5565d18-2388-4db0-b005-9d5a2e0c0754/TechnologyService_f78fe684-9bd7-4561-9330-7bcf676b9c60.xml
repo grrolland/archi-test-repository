@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="My Application Service2 Data hosting Service"
+    id="f78fe684-9bd7-4561-9330-7bcf676b9c60">
+  <properties
+      key="Archimate lifecycle status"
+      value="Active"/>
+</archimate:TechnologyService>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="My Application Service"
+    id="bd41fce6-bd97-4bed-8df5-1201491cacf0">
+  <properties
+      key="Archimate lifecycle status"
+      value="Active"/>
+</archimate:ApplicationService>

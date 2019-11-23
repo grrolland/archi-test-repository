@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="My Application Service Application Data Component"
+    id="b5e0d09d-23d8-406f-bbc7-b907fdebade3">
+  <properties
+      key="Archimate lifecycle status"
+      value="Active"/>
+</archimate:ApplicationComponent>
